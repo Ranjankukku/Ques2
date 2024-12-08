@@ -255,5 +255,8 @@ A pre-attentive feature is a visual property (e.g., color or shape) that humans 
 
 The cue mostly used for creating 3D effects in movies is **Binocular Disparity** because it mimics how our two eyes perceive depth differently based on their positions relative to objects.
 
-Sources
-[1] 19CA682AR.pdf https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/41669035/5a43b86b-7f54-4f4a-873a-07b34653a5f6/19CA682AR.pdf
+
+![image](https://github.com/user-attachments/assets/2c727d19-d5cd-4b00-b32c-f237b6a53c49)
+![image](https://github.com/user-attachments/assets/af4848d2-e6f4-46bb-a5ea-67082c059238)
+
+
