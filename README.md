@@ -1,12 +1,10 @@
 # Ques2
 
 ### Question 1
+<img width="1470" alt="Screenshot 2024-12-08 at 10 10 11 PM" src="https://github.com/user-attachments/assets/d303a4a3-2310-4ab6-a12b-b629389f008d">
 
 #### Q1(a)
 **Given the brief to design a system for a data collection task, list three (3) important questions you would ask your client and suggest a type of database system to use, giving a reason for your choice.**   
-“We are collecting data to use for a marketing campaign by DCU to increase
-public transport use when travelling to campus. Data sources include public
-surveys, records from Transport Ireland and information from DCU estates.”
 
 1. What specific data attributes need to be collected from the surveys, Transport Ireland records, and DCU estates?
 2. How frequently will the data be updated or accessed?
@@ -55,6 +53,7 @@ Categorising data helps in organizing it systematically, making it easier to ana
 ---
 
 ### Question 2
+<img width="1470" alt="Screenshot 2024-12-08 at 10 10 44 PM" src="https://github.com/user-attachments/assets/d341d5d8-2bfa-42f0-900f-62e301d89e4f">
 
 #### Q2(a)
 **(i) What is metadata?**
@@ -110,6 +109,7 @@ Scraping involves extracting information from web pages by parsing HTML content 
 ---
 
 ### Question 3
+<img width="1470" alt="Screenshot 2024-12-08 at 10 11 06 PM" src="https://github.com/user-attachments/assets/1e1ac0e9-795c-444f-bd6b-1b11326aa24e">
 
 #### Q3(a)
 You are collecting data to for a marketing campaign to increase public transport use
@@ -163,6 +163,7 @@ Constraints are rules applied to ensure valid and consistent data:
 ---
 
 ### Question 4
+<img width="1470" alt="Screenshot 2024-12-08 at 10 11 29 PM" src="https://github.com/user-attachments/assets/7ee0fe10-9033-436c-9905-094aaac1107b">
 
 #### Q4(a)
 Given the following visualisation tasks, suggest an appropriate graph type (specific
@@ -216,6 +217,7 @@ Design rules ensure clarity and usability by guiding layout choices (e.g., avoid
 ---
 
 ### Question 5
+<img width="1470" alt="Screenshot 2024-12-08 at 10 12 04 PM" src="https://github.com/user-attachments/assets/7c72e29e-09d7-4a01-b4db-fd0fe8c3c88e">
 
 #### Q5(a)
 **Visual communication goals evident in Figure 2:**
