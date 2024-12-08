@@ -257,6 +257,7 @@ The cue mostly used for creating 3D effects in movies is **Binocular Disparity**
 
 
 ![image](https://github.com/user-attachments/assets/2c727d19-d5cd-4b00-b32c-f237b6a53c49)
-![image](https://github.com/user-attachments/assets/af4848d2-e6f4-46bb-a5ea-67082c059238)
+![image](https://github.com/user-attachments/assets/9577242b-dcd5-4300-b491-c09b8ab38a28)
+
 
 
